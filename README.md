@@ -49,12 +49,12 @@ Organizations often rely on manual or fragmented systems to manage assets, resul
 
 ## 👥 Team Members
 
-**Team ID**: `LTVIP2025TMID20412`
+**Team ID**: `LTVIP2025TMID29498`
 
-- 👨‍💼 **Team Leader**: Veeramallu Krishna Sai Saran  
-- 👨‍💻 Kareti Ram Phani Kumar  
-- 👩‍💻 Challa Hemasri  
-- 👩‍💻 Bhupathi Samhitha
+- 👨‍💼 **Team Leader**: Veeramallu Hanumath Valli Sravan  
+- 👨‍💻 Veeranki Vasavi  
+- 👩‍💻 Ustela Hemanth Naga Kumar  
+- 👩‍💻 Veeranki Yaswanth
 
 ---
 
