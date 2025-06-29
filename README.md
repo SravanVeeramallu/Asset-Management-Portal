@@ -1,6 +1,8 @@
 # 🛠️ Asset Management Portal – Streamlining Enterprise Asset Tracking
 
 The **Asset Management Portal** is a centralized ServiceNow-based platform developed during our academic internship. It streamlines the tracking, assignment, and lifecycle management of both physical and digital assets across an organization. The system allows employees to submit asset requests and enables administrators to efficiently monitor inventory, approve assignments, schedule maintenance, and generate real-time reports.
+- Video Demo Part-1: https://drive.google.com/file/d/1FksFs_sc-kQuV4YpzyWeuTyZRNqr1AXB/view?usp=sharing
+- Video Demo Part-2: https://drive.google.com/file/d/1gALS9o1usbz7_vxdMkE34hIJa9DTdZ1V/view?usp=sharing
 
 ---
 
